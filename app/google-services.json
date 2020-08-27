@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360218565813",
+    "firebase_url": "https://zadaniedomowe-44e7c.firebaseio.com",
+    "project_id": "zadaniedomowe-44e7c",
+    "storage_bucket": "zadaniedomowe-44e7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360218565813:android:01abb9497a540cf8cd72fc",
+        "android_client_info": {
+          "package_name": "com.example.zadanie_domowe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360218565813-hchjj2pfufkpcpjjqhvfcu2ekfv9va18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zadanie_domowe",
+            "certificate_hash": "5edbe856684c6131b8ff47dd4bf6b340f84f2e23"
+          }
+        },
+        {
+          "client_id": "360218565813-lpphccqha6pc7crslnear3ht1dp90o5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthfmuz-Xb3hy5VGv5Lvq5nj26r1shDbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360218565813-lpphccqha6pc7crslnear3ht1dp90o5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
